@@ -19,9 +19,9 @@ var text2png = require('text2png')
 
 
 var options = {
-    font: '100px comicate',
-    localFontPath: './COMICATE.TTF',
-    localFontName: 'comicate',
+    font: '100px blubird',
+    localFontPath: './BlueBird.otf',
+    localFontName: 'bluebird',
     strokeColor: 'black',
     strokeWidth: 1,
     paddingRight: 50,
